@@ -8,6 +8,11 @@ import com.consumer.busbooking.BusBookingImplService;
 import com.consumer.busbooking.JourneyInfo;
 import com.consumer.busbooking.TicketInfo;
 
+/**
+ * this class act as a web services client
+ * @author dady
+ *
+ */
 public class ConsumerTest {
 
 	public static void main(String[] args) throws DatatypeConfigurationException {
